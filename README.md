@@ -15,6 +15,7 @@ Omkar's attempt (keyword attempt) to solve problems after midnight EST quickly f
 |7| 33:48 | 2536 | 38:21 (4:33) | 2078 | 
 |8| 7:11 | 380 | 29:59 (22:48) | 2151 |
 |9| 14:56:18| 46204 | 15:42:30 (46:12) | 37419 |
+|10| 12:41:39| 42206 | 12:49:03 (7:24) | 37306 |
 ## notes
 
 Day 4: Slight bug in code which locked me out for a minute :(
@@ -25,3 +26,4 @@ Day 8: Part 2 heavy heavy choke :(
 
 Day 9: Solved the following morning
 
+Day 10: Soled the following morning
